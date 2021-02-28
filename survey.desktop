@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=GSM Survey
+Categories=Application;GSM
+Exec=/home/al/Documents/GSM_Survey/gsmsurvey.sh
+Icon=/home/al/Pictures/icons/cell-tower-icon-21.png
+Terminal=true
