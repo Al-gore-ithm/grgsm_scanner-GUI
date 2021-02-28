@@ -1,7 +1,7 @@
 # grgsm_scanner-GUI
 # Create a simple GUI for Gr-GSM Scanner
 
-# Create a GUI for Gr-GSM using Zenity that enables easy control of bands of oepration and gain. This GUI also lets you add a session tag / location and stores the collected data as .csv files for ease of use. 
+# Create a GUI for Gr-GSM using Zenity that enables easy control of bands of operation and gain. This GUI also lets you add a session tag / location and stores the collected data as .csv files for ease of use. 
 
 # Identify a suitable data storage location, I created a folder within documents for this:
 
